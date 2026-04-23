@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ehsansid21/ehsansid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+#  About Me:
 * 🔭 I’m currently working on: Building scalable full-stack applications and AI-powered solutions with a focus on backend systems, modern frontend experiences, and real-world problem solving.<br>* 🤝 I’m looking to collaborate on: AI integrations, Java backend projects, Angular frontend apps, REST APIs, and innovative full-stack products.<br>* 🆘 I’m looking for help with: Advanced UI/UX design, scalable system architecture, cloud deployment (AWS/Docker), microservices, and optimizing multimodal AI pipelines.<br>* 🌱 I’m currently learning: Spring Security, JWT best practices, Angular modern architecture, advanced Docker orchestration, cloud deployment, and multimodal AI development with Gemini models.<br>* 💬 Ask me about: Java, Spring Boot, Angular, FastAPI, MySQL, REST APIs, authentication systems, full-stack development, AI assistants, and integrating image + text intelligence into products.<br>* ⚡ Fun fact: I love turning creative ideas into real products—from enterprise systems to AI-powered experiences—because great software should be as stylish as it is functional.<br>
 
 
