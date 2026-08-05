@@ -1,102 +1,60 @@
-# Hi, I'm Ehsan Siddiqui 👋
+# 👨‍💻 Ehsan Siddiqui
 
-### Backend-Focused Full Stack Developer
-
-Building scalable **Spring Boot** applications, AI-powered solutions, and modern full-stack products while exploring cloud-native architectures.
+Full-Stack Developer & AI Solutions Builder focused on Java backend architectures, Angular frontend systems, and intelligent AI integrations.
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
-
-`Java` `Python` `TypeScript` `Dart` `SQL` `C`
-
-### Backend
-
-`Spring Boot` `Spring Security` `Hibernate` `JPA` `REST APIs` `JWT` `FastAPI`
-
-### Frontend
-
-`Angular`
-
-### Databases
-
-`MySQL` `MongoDB`
-
-### Tools
-
-`Git` `GitHub` `Docker` `Maven` `Postman` `IntelliJ IDEA` `VS Code`
+### 📌 About Me
+- 🔭 **Current Focus:** Building scalable full-stack applications & AI-powered backend systems.
+- 🤝 **Open to Collaborate:** AI integrations, Java/Spring Boot microservices, and Angular products.
+- 🆘 **Seeking Insights:** Scalable system architecture, Docker orchestration, & cloud deployments (AWS).
+- 🌱 **Learning:** Advanced Spring Security, JWT practices, Docker orchestration & multimodal AI with Gemini.
+- 💬 **Ask Me About:** Java, Spring Boot, Angular, FastAPI, MySQL, REST APIs, and AI integrations.
+- ⚡ **Fun Fact:** I focus on turning ideas into functional software that looks as stylish as it is performant.
 
 ---
 
-## 🛠 Featured Projects
-
-### 🚀 TransactX
-
-Secure transaction management system built with Spring Boot.
-
-**Features**
-
-* JWT Authentication & Authorization
-* Role-Based Access Control
-* RESTful APIs
-* Transaction Management
-* MySQL Integration
-* Spring Security
-* Clean layered architecture
-
-**Tech Stack:** Spring Boot • Spring Security • Hibernate • MySQL • JWT
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ehsansid21)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ehsan_sid_21)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ehsansid214@gmail.com)
 
 ---
 
-### 🤖 AI Outfit Recommendation System
+### 💻 Tech Stack
 
-AI-powered recommendation platform that understands images and text to generate personalized outfit suggestions.
+**Languages**  
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
 
-**Features**
+**Frameworks & Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-161b22?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-* Image + Text Analysis
-* Gemini AI Integration
-* Intelligent Outfit Recommendations
-* FastAPI Backend
-* Modern AI Pipeline
-
-**Tech Stack:** Python • FastAPI • Gemini AI • Machine Learning
-
----
-
-## 📚 Currently Learning
-
-* Docker & Containerization
-* Cloud Deployment (AWS)
-* Microservices
-* System Design
-* Advanced Spring Security
-* Generative AI & LLM Applications
+**Databases & DevOps**  
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Activity & Stats
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&hide_langs=python,html,css" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ehsansid21&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ehsansid21&theme=github-dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansid21&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+> *Note: If you wish to show Python in the top languages card again, simply remove `python,` from `hide_langs=python,html,css` in the URL.*
 
 ---
 
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/ehsansid21
-* 📧 Email: [ehsansid214@gmail.com](mailto:ehsansid214@gmail.com)
-* 📷 Instagram: https://instagram.com/ehsan_sid_21
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehsansid21&color=21262d&style=flat-square" alt="Profile Views" />
+</p>
