@@ -26,20 +26,10 @@
 
 ---
 
-### ⚡ Day Streak & Activity Tracker
+### ⚡ Day Streak & Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ehsansid21&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 📊 Language Percentage & Overall Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true&exclude_repo=Titanic-ML" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&exclude_repo=Titanic-ML&hide_langs=html,css" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsansid21&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -48,6 +38,16 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsansid21&theme=react-dark&hide_border=true" width="95%" />
+</p>
+
+---
+
+### 📊 Language Percentage & Overall Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&exclude_repo=Titanic-ML" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&exclude_repo=Titanic-ML&hide_langs=html,css" height="170" />
 </p>
 
 ---
