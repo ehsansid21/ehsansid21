@@ -2,7 +2,7 @@
 
 # 👨‍💻 Ehsan Siddiqui
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect+%26+Backend+Engineer;Java+%26+Spring+Boot+Microservices+Specialist;Angular+Frontend+%26+Multimodal+AI+Integrations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect+%26+Backend+Engineer;Java+%26+Spring+Boot+Microservices;Angular+Frontend+%26+Multimodal+AI+Integrations)](https://git.io/typing-svg)
 
 ---
 
