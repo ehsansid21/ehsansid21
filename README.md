@@ -46,12 +46,14 @@ Full-Stack Developer & AI Solutions Builder focused on Java backend architecture
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&hide_langs=python,html,css" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&hide_langs=html,css" height="165" />
 </p>
 
-> *Note: If you wish to show Python in the top languages card again, simply remove `python,` from `hide_langs=python,html,css` in the URL.*
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ehsansid21&theme=dark&hide_border=true" height="165" />
+</p>
 
 ---
 
