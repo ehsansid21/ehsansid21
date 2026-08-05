@@ -1,71 +1,102 @@
 # Hi, I'm Ehsan Siddiqui 👋
 
-Backend-focused Full Stack Developer passionate about building scalable applications and AI-powered solutions.
+### Backend-Focused Full Stack Developer
+
+Building scalable **Spring Boot** applications, AI-powered solutions, and modern full-stack products while exploring cloud-native architectures.
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-* 🎓 Computer Science (AI & ML) Student
-* 💻 Building **Spring Boot**, **Angular**, and **AI** projects
-* 🌱 Currently learning Spring Security, JWT, Docker, Cloud, and Microservices
-* 🤝 Open to collaborating on Java backend, AI, and full-stack projects
-* ⚡ Interested in Backend Development, AI Engineering, and System Design
+### Languages
 
----
+`Java` `Python` `TypeScript` `Dart` `SQL` `C`
 
-## 🛠 Tech Stack
+### Backend
 
-**Languages**
+`Spring Boot` `Spring Security` `Hibernate` `JPA` `REST APIs` `JWT` `FastAPI`
 
-`Java` `Python` `TypeScript` `Dart` `C`
-
-**Backend**
-
-`Spring Boot` `Spring Security` `FastAPI` `REST APIs` `JWT`
-
-**Frontend**
+### Frontend
 
 `Angular`
 
-**Database**
+### Databases
 
 `MySQL` `MongoDB`
 
-**Tools**
+### Tools
 
-`Git` `GitHub` `Docker` `Maven`
-
----
-
-## 📌 Featured Projects
-
-### 🔹 TransactX
-
-A secure transaction management platform built using Spring Boot with authentication, REST APIs, and database integration.
-
-**Tech:** Spring Boot • Spring Security • JWT • MySQL
+`Git` `GitHub` `Docker` `Maven` `Postman` `IntelliJ IDEA` `VS Code`
 
 ---
 
-### 🔹 AI Outfit Recommendation System
+## 🛠 Featured Projects
 
-AI-powered recommendation platform using multimodal models for image and text understanding.
+### 🚀 TransactX
 
-**Tech:** FastAPI • Python • Gemini • Machine Learning
+Secure transaction management system built with Spring Boot.
+
+**Features**
+
+* JWT Authentication & Authorization
+* Role-Based Access Control
+* RESTful APIs
+* Transaction Management
+* MySQL Integration
+* Spring Security
+* Clean layered architecture
+
+**Tech Stack:** Spring Boot • Spring Security • Hibernate • MySQL • JWT
 
 ---
 
-## 🌐 Connect With Me
+### 🤖 AI Outfit Recommendation System
+
+AI-powered recommendation platform that understands images and text to generate personalized outfit suggestions.
+
+**Features**
+
+* Image + Text Analysis
+* Gemini AI Integration
+* Intelligent Outfit Recommendations
+* FastAPI Backend
+* Modern AI Pipeline
+
+**Tech Stack:** Python • FastAPI • Gemini AI • Machine Learning
+
+---
+
+## 📚 Currently Learning
+
+* Docker & Containerization
+* Cloud Deployment (AWS)
+* Microservices
+* System Design
+* Advanced Spring Security
+* Generative AI & LLM Applications
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ehsansid21&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ehsansid21&theme=github-dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansid21&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/ehsansid21
 * 📧 Email: [ehsansid214@gmail.com](mailto:ehsansid214@gmail.com)
 * 📷 Instagram: https://instagram.com/ehsan_sid_21
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ehsansid21\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehsansid21\&theme=github-dark\&hide_border=true)
