@@ -47,7 +47,7 @@ Full-Stack Developer & AI Solutions Builder focused on Java backend architecture
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true&exclude_repo=Titanic-ML" />
   <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&exclude_repo=Titanic-ML&hide_langs=html,css" />
 </p>
