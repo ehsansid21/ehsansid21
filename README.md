@@ -2,7 +2,7 @@
 
 # 👨‍💻 Ehsan Siddiqui
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect+%26+Backend+Engineer;Java+%26+Spring+Boot+Microservices;Angular+Frontend+%26+Multimodal+AI+Integrations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect+%26+Backend+Engineer;Java+%26+Spring+Boot+Microservices+Specialist;Angular+Frontend+%26+Multimodal+AI+Integrations)](https://git.io/typing-svg)
 
 ---
 
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&exclude_repo=Titanic-ML" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&exclude_repo=Titanic-ML&hide_langs=html,css" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&hide=python,html,css" height="170" />
 </p>
 
 ---
