@@ -8,7 +8,7 @@ Building scalable backend systems, modern web applications, and AI-powered produ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ehsansid21)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ehsan_sid_21)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ehsansid214@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ehsansid2114@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ehsansid21)
 [![Profile Views](https://komarev.com/ghpvc/?username=ehsansid21&color=00e5ff&style=for-the-badge&label=VIEWS)](https://github.com/ehsansid21)
 
