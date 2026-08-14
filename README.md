@@ -2,89 +2,146 @@
 
 # 👨‍💻 Ehsan Siddiqui
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect+%26+Backend+Engineer;Java+%26+Spring+Boot+Microservices;Angular+Frontend+%26+Multimodal+AI+Integrations)](https://git.io/typing-svg)
+### Backend-Focused Full-Stack Developer | Java • Spring Boot • AI
 
----
+Building scalable backend systems, modern web applications, and AI-powered products.
 
-<!-- Profile Views & Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ehsansid21)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ehsan_sid_21)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ehsansid214@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ehsansid21)
 [![Profile Views](https://komarev.com/ghpvc/?username=ehsansid21&color=00e5ff&style=for-the-badge&label=VIEWS)](https://github.com/ehsansid21)
 
 </div>
 
 ---
 
-### 📌 About Me
-- 🔭 **Current Focus:** Building scalable full-stack applications & AI-powered backend systems with Java & Angular.
-- 🤝 **Open to Collaborate:** AI integrations, Java/Spring Boot microservices, and modern Angular web products.
-- 🆘 **Seeking Insights:** Cloud deployments (AWS/Docker), microservices architecture, and optimizing multimodal AI pipelines.
-- 🌱 **Learning:** Advanced Spring Security, JWT best practices, Docker orchestration, and Gemini AI integration.
-- 💬 **Ask Me About:** Java, Spring Boot, Angular, FastAPI, MySQL, REST APIs, authentication, and AI assistants.
-- ⚡ **Fun Fact:** I love turning creative ideas into functional software that looks as stylish as it is performant.
+## 👋 About Me
+
+I'm a **CSE-AIML student and backend-focused full-stack developer** interested in building production-oriented software with **Java, Spring Boot, databases, and AI**.
+
+- 🔭 Currently building **scalable backend systems and AI-powered applications**
+- 💻 Strong interest in **Java, Spring Boot, REST APIs, authentication, and databases**
+- 🤖 Exploring **Generative AI, LLM integrations, and multimodal AI**
+- 🌐 Building modern web applications with **Angular**
+- 🐳 Learning **Docker, cloud deployment, and scalable system architecture**
+- 🚀 Open to **software development internships and entry-level opportunities**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Angular, Python, and AI**
 
 ---
 
-### ⚡ Day Streak & Contribution Activity
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsansid21&theme=dark&hide_border=true" />
-</p>
+### 💻 Languages
 
----
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsansid21&theme=react-dark&hide_border=true" width="95%" />
-</p>
-
----
-
-### 📊 Language Percentage & Overall Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsansid21&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&exclude_repo=Titanic-ML" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsansid21&theme=dark&hide_border=true&layout=compact&hide=python,html,css" height="170" />
-</p>
-
----
-
-### 💻 Tech Stack & Ecosystem
-
-**Languages**  
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
+### ⚙️ Backend & APIs
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-161b22?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-161b22?style=flat-square&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-161b22?style=flat-square&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-161b22?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-161b22?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases & DevOps**  
+### 🌐 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=white)
+
+### 🤖 AI / ML
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-161b22?style=flat-square&logo=scikit-learn&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-161b22?style=flat-square&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=white)
+
+### 🐳 Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🔥 Featured Repositories
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ehsansid21&repo=smart-transaction-system&theme=dark&hide_border=true" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ehsansid21&repo=CipherPay&theme=dark&hide_border=true" />
-</p>
+### 💳 Smart Transaction System
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ehsansid21&repo=smart-transaction-frontend&theme=dark&hide_border=true" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ehsansid21&repo=FinPilot&theme=dark&hide_border=true" />
-</p>
+A **Spring Boot-based financial transaction backend** for account management, money transfers, transaction tracking, and fraud detection.
+
+**Tech:** `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `JWT`
+
+**Key Features**
+- 👤 User & account management
+- 💰 Deposit & withdrawal
+- 💸 Money transfers
+- 📊 Transaction history
+- 🔐 Authentication & authorization
+- 🚨 Suspicious transaction detection
+- 🔗 RESTful API architecture
+
+---
+
+### 🔐 CipherPay
+
+A secure payment-oriented application focused on **authentication, transaction processing, and financial workflows**.
+
+**Tech:** `Java` `Spring Boot` `REST APIs` `MySQL` `JWT`
+
+---
+
+### 📊 FinPilot
+
+A finance-focused application designed to help users **track and understand financial activity** through a modern web interface.
+
+**Tech:** `Angular` `Java` `Spring Boot` `REST APIs`
+
+---
+
+### 🤖 AI-Powered Applications
+
+Building experimental AI applications involving:
+
+- 🧠 Generative AI
+- 💬 LLM API integrations
+- 👁️ Multimodal AI
+- 🎯 Recommendation systems
+- 📚 NLP
+- 📈 Machine Learning
+
+---
+
+## 📚 Currently Learning
+
+```text
+Spring Boot
+├── Spring Security
+├── JWT & Authentication
+├── Microservices
+└── System Design
+
+AI Engineering
+├── LLM APIs
+├── RAG
+├── Vector Databases
+└── Multimodal AI
+
+DevOps
+├── Docker
+├── CI/CD
+└── Cloud Deployment
