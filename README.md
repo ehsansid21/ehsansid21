@@ -64,9 +64,11 @@ I'm a **CSE-AIML student and backend-focused full-stack developer** interested i
 
 ### 🤖 AI / ML
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-161b22?style=flat-square&logo=scikit-learn&logoColor=white)
+
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-161b22?style=flat-square&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-161b22?style=flat-square&logo=python&logoColor=white)
 
 ### 🐳 Tools & DevOps
 
